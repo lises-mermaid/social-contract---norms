@@ -25,7 +25,7 @@ Reference [Establishing Norms](https://docs.google.com/document/d/1qquhoredhOu-D
 
 - Can switch off every 2 days. 
 
-- Pair program on assigned tasks- Can bring each other up-to-date. Everyone gets to touch. 
+- Pair program on assigned tasks- Can bring each other up-to-date. Everyone gets to touch on the different part of the project. 
 
 - Record issues that are non-blocking and discuss right after lunch at re-group meeting
 
